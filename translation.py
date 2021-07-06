@@ -12,7 +12,7 @@ Masukkan Nomer Telegram Anda dengan Format awal +628........
 *Kalo gak percaya ambil manual aja ke my.telegram.org 
 """
     BEFORE_SUCC_LOGIN = "Kode Diterima. Tunggu Sebentar..."
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@SpEcHlDe"
+    ERRED_PAGE = "something wrongings. failed to get app id."
     CANCELLED_MESG = "Bye! Ketik /start untuk memulai ulang bot"
     IN_VALID_CODE_PVDED = "Kode yang anda masukan salah"
     IN_VALID_PHNO_PVDED = "Masukkan Nomor HP yang benar. Pakai format +628....."
